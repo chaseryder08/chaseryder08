@@ -3,7 +3,7 @@
 
 ## I'm an AWS Certified Cloud Solutions Architect/Engineer, developer, musician, and artist!
 - 💪🏻 I'm currently working on developing my AWS Cloud, Terraform, Python, Docker skills. 
-- 🤝 I'm looking for an entry level AWS cloud engineer/DevOps job, with aspirations to become a Cloud Architect.
+- 🤝 I'm looking for an entry level AWS cloud engineer/DevOps job.
 - 📶 2022+ Goals: Become employed as a cloud/DevOps engineer, and continue building my DevOps skills. 
 - 🎺 Fun fact: I am a visual artist, and I play jazz trumpet, drums, and guitar. 
 
