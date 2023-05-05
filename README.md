@@ -1,9 +1,9 @@
 ### 👨‍💻 Hi there, I'm Chase 
 <a href="https://chasedecosterresume.com">Cloud Resume Challenge Website</a>
 
-## I'm an AWS Certified Cloud Solutions Architect/Engineer, developer, musician, and artist!
-- 💪🏻 I'm currently working on developing my AWS Cloud, Terraform, Python, Docker skills. 
-- 🤝 I'm looking for an entry level AWS cloud engineer/DevOps job.
+## I'm a DevOps Engineer, developer, musician, and artist!
+- 💪🏻 I'm currently working on developing my AWS Cloud, Terraform, Kubernetes, Docker, and Python skills. 
+- 🤝 I'm looking for an Cloud engineer/DevOps position.
 - 📶 2022+ Goals: Become employed as a cloud/DevOps engineer, and continue building my DevOps skills. 
 - 🎺 Fun fact: I am a visual artist, and I play jazz trumpet, drums, and guitar. 
 
@@ -12,14 +12,13 @@
 
 ### 🛠 Languages and Tools:
 - AWS
+- Kubernetes
+- Docker
+- Terraform
 - Python
 - Linux
-- Terraform
-- Docker
-- HTML
-- CSS 
+- HTML/CSS 
 - Javascript
-- Typescript
 
 <br>
 <br>
