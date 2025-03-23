@@ -1,26 +1,19 @@
-### 👨‍💻 Hi there, I'm Chase 
-<a href="https://chasedecosterresume.com">Cloud Resume Challenge Website</a>
+# Chase DeCoster
 
-## I'm a Cloud Engineer, developer, musician, and artist!
-- 💪🏻 I'm currently working on developing my AWS Cloud, Kubernetes, Docker, and Python skills. 
-- 🤝 I'm looking for a Cloud engineer/DevOps position.
-- 📶 2023+ Goals: Become employed as a cloud/DevOps engineer, and continue building my technical skills. 
-- 🎺 Fun fact: I am a visual artist, and I play trumpet, drums, and guitar. 
+## 🌩️ Cloud Engineer | DevOps Enthusiast | Musician | Artist  
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/chasedecoster/">LinkedIn</a>
+Hi there! I'm a **AWS Certified Cloud Solutions Architect/Engineer** with a passion for cloud computing, automation, and DevOps practices. I'm actively developing my skills in **AWS, Python, Docker, APIs, and Terraform** while building hands-on projects.  
 
-### 🛠 Languages and Tools:
-- AWS
-- Kubernetes
-- Docker
-- Terraform
-- Python
-- Linux
-- HTML/CSS 
-- Javascript
+🔍 **Looking for:** An entry-level **AWS Cloud Engineer** or **DevOps Engineer** role where I can apply my skills and grow in cloud infrastructure and automation.  
 
-<br>
-<br>
+🎯 **Current Goals:**  
+- Master **AWS, Terraform, Python, and Kubernetes**  
+- Build real-world **DevOps & cloud automation projects**  
+- Collaborate with other tech enthusiasts and open-source contributors  
 
-[website]: https://chasedecosterresume.com
+🎺 **Fun fact:** Outside of tech, I'm a **visual artist and jazz musician**—I play trumpet, drums, and guitar!  
+
+## 🌐 Featured Project:  
+🚀 **[Cloud Resume Challenge Website](https://chasedecosterresume.com)** – A hands-on cloud project showcasing my skills in AWS, Infrastructure as Code, and CI/CD.  
+
+---
