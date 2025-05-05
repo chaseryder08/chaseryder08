@@ -1,6 +1,6 @@
 # Chase DeCoster
 
-## 🧠 Support Analyst | Aspiring Customer Solutions Engineer | API Developer | Creative Thinker
+## 🧠 Software Support Analyst | Aspiring Customer Solutions Engineer | API Developer | Creative Thinker
 
 Hi there! I'm currently working as a **Support Analyst at IDBS**, where I help solve complex technical issues for life sciences software users. I'm actively building **real-world API projects in Python and Flask** to deepen my backend development skills and showcase my ability to create tools that improve support operations.
 
