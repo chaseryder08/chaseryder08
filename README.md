@@ -2,9 +2,7 @@
 
 ## 2x AWS Certified | API Developer | Aspiring Customer Solutions Engineer | AI Enthusiast
 
-I'm a Python developer focused on building Flask APIs grounded in real-world support workflows. Currently creating tools to track documentation metrics and reduce publishing delays, with an eye toward improving internal operations and customer outcomes.
-
-I'm 2x AWS Certified (Solutions Architect – Associate, Cloud Practitioner) with hands-on experience across core AWS services and Python-based automation. I'm also an AI enthusiast, exploring ways to integrate AI into backend tools and support workflows.
+Support Analyst and Python developer focused on learning backend development through Flask APIs and automation. 2x AWS Certified (Solutions Architect – Associate, Cloud Practitioner) with hands-on experience in core AWS services. AI enthusiast exploring ways to bring automation and intelligence into support workflows.
 
 ### 🔧 Skills
 - Python • Flask • REST APIs • SQL • Linux  
