@@ -1,19 +1,23 @@
 # Chase DeCoster
 
-## 🌩️ Cloud Engineer | DevOps Enthusiast | Musician | Artist  
+## 🧠 Support Analyst | Aspiring Customer Solutions Engineer | API Developer | Creative Thinker
 
-Hi there! I'm a **AWS Certified Cloud Solutions Architect/Engineer** with a passion for cloud computing, automation, and DevOps practices. I'm actively developing my skills in **AWS, Python, Docker, APIs, and Terraform** while building hands-on projects.  
+Hi there! I'm currently working as a **Support Analyst at IDBS**, where I help solve complex technical issues for life sciences software users. I'm actively building **real-world API projects in Python and Flask** to deepen my backend development skills and showcase my ability to create tools that improve support operations.
 
-🔍 **Looking for:** An entry-level **AWS Cloud Engineer** or **DevOps Engineer** role where I can apply my skills and grow in cloud infrastructure and automation.  
+💡 **Current Focus:**  
+- Building practical **Flask API** projects inspired by my work in software support  
+- Learning how to design clean, testable APIs and integrate automation where useful  
+- Preparing for a transition into a **Customer Solutions Engineer (CSE)** role  
 
-🎯 **Current Goals:**  
-- Master **AWS, Terraform, Python, and Kubernetes**  
-- Build real-world **DevOps & cloud automation projects**  
-- Collaborate with other tech enthusiasts and open-source contributors  
+🧪 **Real-World Projects:**  
+- Article Workflow Tracker API: Tracks publishing delays for support documentation, helping reduce turnaround times (modeled after a real internal initiative)  
+- More in the works…
 
-🎺 **Fun fact:** Outside of tech, I'm a **visual artist and jazz musician**—I play trumpet, drums, and guitar!  
+🎯 **Long-Term Goals:**  
+- Bridge my support experience with **solution architecture and engineering**  
+- Grow into roles that combine **technical expertise with customer-facing problem solving**  
+- Continue learning tools like **Python, SQL, and cloud platforms (AWS/GCP)**  
 
-## 🌐 Featured Project:  
-🚀 **[Cloud Resume Challenge Website](https://chasedecosterresume.com)** – A hands-on cloud project showcasing my skills in AWS, Infrastructure as Code, and CI/CD.  
+🎺 **Fun fact:** I'm also a **visual artist and jazz musician** — trumpet, drums, and guitar are my instruments of choice.
 
 ---
