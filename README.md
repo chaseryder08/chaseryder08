@@ -1,6 +1,6 @@
 # Chase DeCoster
 
-## 2x AWS Certified | API Developer | Aspiring Customer Solutions Engineer | AI Enthusiast
+## 2x AWS Certified | API Developer | Aspiring Customer Solutions Engineer
 
 Support Analyst and Python developer focused on learning backend development through Flask APIs and automation. 2x AWS Certified (Solutions Architect – Associate, Cloud Practitioner) with hands-on experience in core AWS services. AI enthusiast exploring ways to bring automation and intelligence into support workflows.
 
