@@ -9,11 +9,17 @@ I'm 2x AWS Certified (Solutions Architect – Associate, Cloud Practitioner) wit
 ### 🔧 Skills
 - Python • Flask • REST APIs • SQL • Linux  
 - AWS (EC2, S3, Lambda, DynamoDB, API Gateway, IAM, VPC, Route 53)  
-- Terraform (basic) • Git • Postman • Networking  
+- Terraform (basic) • Git • Postman • Networking
+- Jenkins, Scalyr, Splunk
 - AI Integration (early exploration)
 
 ### 🛠 Projects
-- **Article Workflow Tracker API** – Monitors time-to-publish for support articles, flags delays, and models internal publishing workflows.
+- **Article Workflow Tracker API** – Monitors time-to-publish for support articles, flags delays, and models internal publishing workflows  
+- **Thumbnail Image Editor Lambda Project** – Serverless image processing with AWS Lambda  
+- **DevOps Projects** – Collection of projects showcasing CI/CD, automation, and infrastructure as code  
+- **Terraform Apache Webserver Project** – Deploys Apache webserver using Terraform on AWS  
+- **AWS End-to-End Website** – Static website hosted on EC2 with full deployment pipeline  
+- **LAMP EC2 Stack Project** – Manual LAMP stack deployment on AWS using CLI
 
 ### 🎯 Goals
 - Transition into a Customer Solutions Engineer role  
