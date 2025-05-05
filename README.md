@@ -1,23 +1,24 @@
 # Chase DeCoster
 
-## 🧠 Software Support Analyst | Aspiring Customer Solutions Engineer | API Developer | Creative Thinker
+## 2x AWS Certified | API Developer | Aspiring Customer Solutions Engineer | AI Enthusiast
 
-Hi there! I'm currently working as a **Support Analyst at IDBS**, where I help solve complex technical issues for life sciences software users. I'm actively building **real-world API projects in Python and Flask** to deepen my backend development skills and showcase my ability to create tools that improve support operations.
+I'm a Python developer focused on building Flask APIs grounded in real-world support workflows. Currently creating tools to track documentation metrics and reduce publishing delays, with an eye toward improving internal operations and customer outcomes.
 
-💡 **Current Focus:**  
-- Building practical **Flask API** projects inspired by my work in software support  
-- Learning how to design clean, testable APIs and integrate automation where useful  
-- Preparing for a transition into a **Customer Solutions Engineer (CSE)** role  
+I'm 2x AWS Certified (Solutions Architect – Associate, Cloud Practitioner) with hands-on experience across core AWS services and Python-based automation. I'm also an AI enthusiast, exploring ways to integrate AI into backend tools and support workflows.
 
-🧪 **Real-World Projects:**  
-- Article Workflow Tracker API: Tracks publishing delays for support documentation, helping reduce turnaround times (modeled after a real internal initiative)  
-- More in the works…
+### 🔧 Skills
+- Python • Flask • REST APIs • SQL • Linux  
+- AWS (EC2, S3, Lambda, DynamoDB, API Gateway, IAM, VPC, Route 53)  
+- Terraform (basic) • Git • Postman • Networking  
+- AI Integration (early exploration)
 
-🎯 **Long-Term Goals:**  
-- Bridge my support experience with **solution architecture and engineering**  
-- Grow into roles that combine **technical expertise with customer-facing problem solving**  
-- Continue learning tools like **Python, SQL, and cloud platforms (AWS/GCP)**  
+### 🛠 Projects
+- **Article Workflow Tracker API** – Monitors time-to-publish for support articles, flags delays, and models internal publishing workflows.
 
-🎺 **Fun fact:** I'm also a **visual artist and jazz musician** — trumpet, drums, and guitar are my instruments of choice.
+### 🎯 Goals
+- Transition into a Customer Solutions Engineer role  
+- Build clean, testable APIs that solve real problems  
+- Integrate AI into backend tooling to enhance support operations  
+- Deepen cloud and backend expertise through practical projects
 
----
+🎺 Outside tech, I’m also a musician and artist—trumpet, drums, and guitar keep me grounded.
