@@ -25,4 +25,4 @@ Support Analyst and Python developer focused on learning backend development thr
 - Integrate AI into backend tooling to enhance support operations  
 - Deepen cloud and backend expertise through practical projects
 
-🎺 Outside tech, I’m also a musician and artist—trumpet, drums, and guitar keep me grounded.
+🎺 Outside tech, I’m also a musician and artist. I enjoy playing trumpet, drums, and guitar :)
