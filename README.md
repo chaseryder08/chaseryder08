@@ -12,7 +12,7 @@ Support Analyst and Python developer focused on learning backend development thr
 - AI Integration (early exploration)
 
 ### 🛠 Projects
-- **Article Workflow Tracker API** – Monitors time-to-publish for support articles, flags delays, and models internal publishing workflows  
+- [**Article Workflow Tracker API**]([https://www.genome.gov/](https://github.com/chaseryder08/article_api_tracker)) – Monitors time-to-publish for support articles, flags delays, and models internal publishing workflows  
 - **Thumbnail Image Editor Lambda Project** – Serverless image processing with AWS Lambda  
 - **DevOps Projects** – Collection of projects showcasing CI/CD, automation, and infrastructure as code  
 - **Terraform Apache Webserver Project** – Deploys Apache webserver using Terraform on AWS  
