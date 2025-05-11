@@ -20,7 +20,7 @@ Support Analyst and Python developer focused on learning backend development thr
 - **LAMP EC2 Stack Project** – Manual LAMP stack deployment on AWS using CLI
 
 ### 🎯 Goals
-- Transition into a Customer Solutions Engineer role  
+- Transition into a Cloud Engineer or Customer Solutions Engineer role  
 - Build clean, testable APIs that solve real problems  
 - Integrate AI into backend tooling to enhance support operations  
 - Deepen cloud and backend expertise through practical projects
