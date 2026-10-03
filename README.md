@@ -17,7 +17,7 @@ This is where I keep personal projects and notes.
 
 ### Projects
 - **Article Workflow Tracker API**: Flask API that tracks support knowledge articles from draft to published and flags any past a 2-day target. Based on a backlog project at IDBS.
-- **Log Parser** (in progress): Python script that reads application logs and pulls out errors and patterns
+- **Log Parser** : Python script that reads application logs and pulls out errors and patterns
 - **Thumbnail Image Editor**: Python, AWS Lambda, and S3 to resize uploaded images automatically
 - **Terraform Apache Webserver**: deploys an Apache web server on AWS with Terraform
 
