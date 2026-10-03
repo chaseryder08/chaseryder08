@@ -1,6 +1,6 @@
 # Chase DeCoster
 
-## Technical Support | APIs, SQL, Python, AWS
+## Escalated technical support for B2B SaaS. APIs, SQL, Python, AWS. Boston area.
 
 I work enterprise and escalated support for B2B SaaS. I troubleshoot integrations with Postman and direct API calls, dig into front-end issues with browser dev tools and HAR files, and write Python and Bash scripts for the repetitive parts of the job.
 
