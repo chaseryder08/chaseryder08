@@ -1,28 +1,25 @@
 # Chase DeCoster
 
-## 2x AWS Certified | API Developer | Aspiring Customer Solutions Engineer
+## Technical Support | APIs, SQL, Python, AWS
 
-Support Analyst and Python developer focused on learning backend development through Flask APIs and automation. 2x AWS Certified (Solutions Architect – Associate, Cloud Practitioner) with hands-on experience in core AWS services. AI enthusiast exploring ways to bring automation and intelligence into support workflows.
+I work enterprise and escalated support for B2B SaaS. I troubleshoot integrations with Postman and direct API calls, dig into front-end issues with browser dev tools and HAR files, and write Python and Bash scripts for the repetitive parts of the job.
 
-### 🔧 Skills
-- Python • Flask • REST APIs • SQL • Linux  
-- AWS (EC2, S3, Lambda, DynamoDB, API Gateway, IAM, VPC, Route 53)  
-- Terraform (basic) • Git • Postman • Networking
-- Jenkins, Scalyr, Splunk
-- AI Integration (early exploration)
+This is where I keep personal projects and notes.
 
-### 🛠 Projects
-- **Article Workflow Tracker API** – Monitors time-to-publish for support articles, flags delays, and models internal publishing workflows  
-- **Thumbnail Image Editor Lambda Project** – Serverless image processing with AWS Lambda  
-- **DevOps Projects** – Collection of projects showcasing CI/CD, automation, and infrastructure as code  
-- **Terraform Apache Webserver Project** – Deploys Apache webserver using Terraform on AWS  
-- **AWS End-to-End Website** – Static website hosted on EC2 with full deployment pipeline  
-- **LAMP EC2 Stack Project** – Manual LAMP stack deployment on AWS using CLI
+### Skills
+- Python, SQL, Bash, PowerShell
+- REST APIs, JSON, Postman
+- Browser dev tools, HAR files, reading HTML/CSS/JavaScript
+- AWS (EC2, IAM, S3), Linux, CloudWatch
+- DNS, HTTPS, SSH, SFTP, SSO/MFA
+- Jira, Salesforce, Confluence
 
-### 🎯 Goals
-- Transition into a Cloud Engineer or Customer Solutions Engineer role  
-- Build clean, testable APIs that solve real problems  
-- Integrate AI into backend tooling to enhance support operations  
-- Deepen cloud and backend expertise through practical projects
+### Projects
+- **Log Parser** (in progress): Python script that reads application logs and pulls out errors and patterns
+- **Thumbnail Image Editor**: Python, AWS Lambda, and S3 to resize uploaded images automatically
+- **Terraform Apache Webserver**: deploys an Apache web server on AWS with Terraform
 
-🎺 Outside tech, I’m also a musician and artist. I enjoy playing trumpet, drums, and guitar :)
+### Outside tech
+I play trumpet, drums, and guitar, and I paint.
+
+[LinkedIn](https://www.linkedin.com/in/chasedecoster/)
